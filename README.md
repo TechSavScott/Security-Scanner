@@ -1,14 +1,9 @@
-# Security-Scanner
+# Security/Vulnerability-Scanner
 In this project, I'm building an AI Powered Vulnerability Scanner for Python.
 [README.md](https://github.com/user-attachments/files/29429489/README.md)
 
 
 # AI Security Scanner for Python
-
-**Project Link:** [View Project](http://nextwork.ai/projects/ai-security-audit)
-
-**Author:** Scotty  
-**Email:** scottjadon@gmail.com
 
 ---
 
