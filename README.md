@@ -12,7 +12,6 @@ In this project, I'm building an AI Powered Vulnerability Scanner for Python.
 
 ---
 
-![Image](http://nextwork.ai/thrilled_azure_noble_elephant/uploads/ai-security-audit_sec4e5f6)
 
 ---
 
